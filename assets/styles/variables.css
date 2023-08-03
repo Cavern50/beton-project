@@ -1,0 +1,17 @@
+:root {
+    --font-size-text: 14px;
+    --font-size-text-large: 20px;
+    --font-size-subtitle: 24px;
+    --font-size-title: 64px;
+    --accent: #FECA2F;
+    --backround-primary: #212121;
+    --text-color: #ffffff;
+    --disabled: #737373;
+    --header-height: 90px;
+    --section-padding: 120px;
+    --margin-xs: 15px;
+    --margin-s: 30px;
+    --margin-m: 60px;
+    --shadow: 0 4px 20px 4px rgba(255, 255, 255, 0.25);
+    --input-padding: 18px;
+}
